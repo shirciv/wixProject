@@ -1,0 +1,4 @@
+there are 2 database:
+
+FormType - which saves the forms
+Users - which saves all the forms that where submitted by the users.
